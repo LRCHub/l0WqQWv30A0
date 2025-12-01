@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Sea, You & Me",
+  "base_artist": "VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T10:10:53.070310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sea You Sorrow (Demo)",
+      "artist": "Alice In Chains",
+      "has_synced": false,
+      "path": "select/01_Sea_You_Sorrow_(Demo)_Alice_In_Chains.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポケットをふくらませて ～Sea, you again～",
+      "artist": "rionos",
+      "has_synced": true,
+      "path": "select/02_ポケットをふくらませて_~Sea,_you_again~_rionos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポケットをふくらまして～ Sea,you again～",
+      "artist": "rionos",
+      "has_synced": true,
+      "path": "select/03_ポケットをふくらまして~_Sea,you_again~_rionos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポケットをふくらませて ～Sea, you again～",
+      "artist": "rionos、VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/04_ポケットをふくらませて_~Sea,_you_again~_rionos、VISUAL_ARTS___Key.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sea you",
+      "artist": "classicus",
+      "has_synced": false,
+      "path": "select/pl_01_sea_you_classicus.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SEA you",
+      "artist": "classicus",
+      "has_synced": false,
+      "path": "select/pl_02_SEA_you_classicus.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "sea you letter",
+      "artist": "classicus",
+      "has_synced": false,
+      "path": "select/pl_03_sea_you_letter_classicus.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "\"Sea\"you again",
+      "artist": "classicus",
+      "has_synced": false,
+      "path": "select/pl_04_Sea_you_again_classicus.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SEA you",
+      "artist": "classicus",
+      "has_synced": false,
+      "path": "select/pl_05_SEA_you_classicus.txt"
+    }
+  ]
+}
